@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/model-project/static/css/main.dae508a4.css",
+    "main.js": "/model-project/static/js/main.16553a02.js",
+    "static/media/Roboto-Light.svg": "/model-project/static/media/Roboto-Light.a4fb444f3e51390da1be.svg",
+    "static/media/Roboto-Medium.svg": "/model-project/static/media/Roboto-Medium.0d080d4235700239f15c.svg",
+    "static/media/Roboto-Regular.svg": "/model-project/static/media/Roboto-Regular.00570a07e779b33d1fc8.svg",
+    "static/media/Roboto-Bold.svg": "/model-project/static/media/Roboto-Bold.6f5d4ac9688311ae6de3.svg",
+    "static/media/Roboto-Light.eot": "/model-project/static/media/Roboto-Light.74cd91c7f5fcaddac4a2.eot",
+    "static/media/Roboto-Light.ttf": "/model-project/static/media/Roboto-Light.e289223e8f7db05b45e8.ttf",
+    "static/media/Roboto-Medium.eot": "/model-project/static/media/Roboto-Medium.1afe812b07faed5ed611.eot",
+    "static/media/Roboto-Medium.ttf": "/model-project/static/media/Roboto-Medium.998a459c1a5cda086728.ttf",
+    "static/media/connect-bg.jpg": "/model-project/static/media/connect-bg.f9fb0892a772a5c00e93.jpg",
+    "static/media/Roboto-Light.woff": "/model-project/static/media/Roboto-Light.b16ed739c15c0b25c9c2.woff",
+    "static/media/Roboto-Medium.woff": "/model-project/static/media/Roboto-Medium.9323dd3a48300f3fbe0c.woff",
+    "static/media/Roboto-Light.woff2": "/model-project/static/media/Roboto-Light.dcf8035139c157df8f58.woff2",
+    "static/media/Roboto-Medium.woff2": "/model-project/static/media/Roboto-Medium.1cc0c957c0c8fad0657d.woff2",
+    "static/media/main-bg.jpg": "/model-project/static/media/main-bg.e5f3ffaa2c775e0d05c8.jpg",
+    "static/media/Roboto-Regular.eot": "/model-project/static/media/Roboto-Regular.17c7edb1f5039bade180.eot",
+    "static/media/Roboto-Regular.ttf": "/model-project/static/media/Roboto-Regular.159ffd6329ddf3763d59.ttf",
+    "static/media/Roboto-Bold.eot": "/model-project/static/media/Roboto-Bold.d9894b4d4c577ea4dec0.eot",
+    "static/media/Roboto-Bold.ttf": "/model-project/static/media/Roboto-Bold.a70e508555c4aa65e30a.ttf",
+    "static/media/Roboto-Regular.woff": "/model-project/static/media/Roboto-Regular.fbd78912f82ed739a7bd.woff",
+    "static/media/Roboto-Bold.woff": "/model-project/static/media/Roboto-Bold.e615567912e07c93535d.woff",
+    "static/media/Roboto-Regular.woff2": "/model-project/static/media/Roboto-Regular.4ef10a5ef22ffc7fb495.woff2",
+    "static/media/Roboto-Bold.woff2": "/model-project/static/media/Roboto-Bold.9473a03bcb88b4d23091.woff2",
+    "index.html": "/model-project/index.html",
+    "static/media/left-arrow.svg": "/model-project/static/media/left-arrow.7fe4a3537e69b64790fb.svg",
+    "static/media/right-arrow.svg": "/model-project/static/media/right-arrow.92b8a64d41cb87829990.svg",
+    "main.dae508a4.css.map": "/model-project/static/css/main.dae508a4.css.map",
+    "main.16553a02.js.map": "/model-project/static/js/main.16553a02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dae508a4.css",
+    "static/js/main.16553a02.js"
+  ]
+}
